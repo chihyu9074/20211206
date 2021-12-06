@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<html><head></head><body>﻿
 
-You can use the [editor on GitHub](https://github.com/chihyu9074/20211206/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<title>圖片練習</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>★全文分享★  台中頂粵吉品。燒乳豬三吃比烤鴨更迷人｜潮粵菜 x 葡萄酒餐酒饗宴</h3>
+<img src=".\image\001.jpg" width="400" height="300" align="left">
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+年初某天，台中老饕好友Tony敲我，<br>發出頂粵吉品餐酒會的邀請：廣式燒乳豬&amp;烤鴨，
+<br>暨葡萄酒搭配研討會，迷人且完全命中！立刻報名。<br><br>
 
-- Bulleted
-- List
+這場餐會真正吸引我的關鍵在於：來自原世貿聯誼與吉品<br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<h3>★全文分享★  萌木之村。台中森林系餐廳｜咖啡甜點。現做套餐料理 (暫停營業)</h3>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<img src=".\image\002.jpg" width="400" height="300" align="left"><p>
 
-### Jekyll Themes
+大大小小一行人來到台中聚餐，原本想吃灰鴿火鍋，<br>地頭蛇飛天璇說，
+灰鴿老闆最近在中科商圈開了新餐廳，<br>不僅有現做套餐料理，咖啡輕食甜點，
+也有火鍋可選擇。<br><br>而且餐廳以日本清里萌木之村
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chihyu9074/20211206/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+</p><h3>★全文分享★  HALO哈蘿格子Q。台中興大商圈熱門美食｜不加一滴水、只加牛奶的涮嘴鬆餅</h3>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img src=".\image\003.jpg" width="400" height="300" align="left"><p>
+
+因為咖啡三冠王陳皇仁的推薦，我率隊來到中興大學<br>附近的美村南路，
+他說這裡有一家他朋友開的「哈蘿格子Q」<br>，邀瑪格到台中時順路嚐嚐。<br><br>
+路旁騎樓下小攤子，招牌俏皮的寫著「我和鬆餅不一
+
+
+
+
+
+
+
+
+</p></body></html>
